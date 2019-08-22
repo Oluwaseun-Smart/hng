@@ -5,7 +5,7 @@
 For running the application you need:
 
 - Web browser
-- Clone the project using git clone https://github.com/Oluwaseun-smart/hng on your computer
+- Clone the project using git clone https://github.com/Oluwaseun-Smart/hng.git on your computer
 - Open the file using any web browser of your choice 
 
 ## Flutterwave Inc
