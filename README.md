@@ -17,4 +17,4 @@ Read more about flutterwave [here](https://smartunlimited95.wixsite.com/smartblo
 
 ## lucid.blog
 
-Read lucid.blog post [here](https://smartunlimited95.wixsite.com/smartblog/post/flutterwave-inc)
+Read lucid.blog post [here](https://lucid.blog/smartunlimited95/post/1566427380)
